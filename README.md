@@ -1,2 +1,2 @@
 # leetCode
-Majitoo到此一遊
+LeetCode試題實作備份~
